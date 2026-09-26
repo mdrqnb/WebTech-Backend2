@@ -16,14 +16,14 @@ The main goal of this assignment was to learn and apply advanced CSS layout tech
 I created a navigation bar using Flexbox. The logo is placed on the left side and the navigation links are placed on the right side. I used `justify-content` and `align-items` to control the position of the elements and `gap` to create spacing between the links.
 
 
-c:\Users\acer\Pictures\Screenshots\Скриншот 2026-09-26 170531.png
+![alt text](image.png)
 
 ## Step 1 - Card Row
 
 I created a row of three project cards using Flexbox. Each card contains an image, title, description and button. I used `flex: 1` to make the cards equal in size and added a hover effect using `transform` and `box-shadow`.
 
 
-c:\Users\acer\Pictures\Screenshots\Скриншот 2026-09-26 175026.png
+![alt text](image.png)
 
 
 # Part 2 - CSS Grid
@@ -33,13 +33,13 @@ c:\Users\acer\Pictures\Screenshots\Скриншот 2026-09-26 175026.png
 I created a page layout using CSS Grid. The layout contains a header, sidebar, main content and footer. I used `grid-template-columns`, `grid-template-rows` and `grid-template-areas` to organize the page structure.
 
 
-c:\Users\Acer\Pictures\Screenshots\Скриншот 2026-09-26 182146.png
+![alt text](screenshots/task2.png)
 
 ## Step 3 - Image Gallery
 
 I created an image gallery using CSS Grid with nine images. The images are arranged in equal columns and rows with consistent gaps. I also added a hover effect with captions.
 
-c:\Users\Acer\Pictures\Screenshots\Скриншот 2026-09-26 191219.png
+![alt text](screenshots/task3.png)
 
 
 # Part 3 - Combining Flexbox and Grid
@@ -48,7 +48,7 @@ c:\Users\Acer\Pictures\Screenshots\Скриншот 2026-09-26 191219.png
 
 I created a portfolio page by combining Flexbox and CSS Grid. Grid is used for the main page structure, while Flexbox is used for the navigation and project cards. The portfolio contains projects, information, a header and a footer.
 
-c:\Users\Acer\Pictures\Screenshots\Скриншот 2026-09-26 191234.png
+![alt text](screenshots/task4.png)
 
 # Work Process
 
