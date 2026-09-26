@@ -16,15 +16,14 @@ The main goal of this assignment was to learn and apply advanced CSS layout tech
 I created a navigation bar using Flexbox. The logo is placed on the left side and the navigation links are placed on the right side. I used `justify-content` and `align-items` to control the position of the elements and `gap` to create spacing between the links.
 
 
-![alt text](image.png)
+![Task 0 - Navigation Bar](screenshots/task0.png)
 
 ## Step 1 - Card Row
 
 I created a row of three project cards using Flexbox. Each card contains an image, title, description and button. I used `flex: 1` to make the cards equal in size and added a hover effect using `transform` and `box-shadow`.
 
 
-![alt text](image.png)
-
+![Task 1 - Card Row](screenshots/task1.png)
 
 # Part 2 - CSS Grid
 
